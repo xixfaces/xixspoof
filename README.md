@@ -1,19 +1,10 @@
-# 🎭 Animation Replacer for Roblox (WIP)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+XIXSPOOF
+
 [![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/)
 
-**Animation Transfering/Spoofing** is an automated process designed to fix the handling of third party animations in your Roblox game. This program will scrape Roblox files, spoof/reupload animations, and republish them to ensure animation transfer when you publish your game.
-<div align="center">
 
-[![Showcase Video](https://img.youtube.com/vi/URB9llET-w8/0.jpg)](https://www.youtube.com/watch?v=URB9llET-w8 "Showcase Video")
-<footer>Video Showcase</footer>
-</div>
 
->    [!WARNING]
->    This program has been unstable due to the lack of updates after roblox's changes.
->    Major bug on fetching animations will be resolved soon, then will try to make it stable again
->    
-> Report issues here: https://github.com/shibahex/animation-replacer-roblox/issues
+
 
 ## 📝 Development Status
 - ✅ Scrape animations in lua scripts
